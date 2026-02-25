@@ -23,7 +23,3 @@ public class ShowActivity extends AppCompatActivity {
         cityNameView.setText(cityName);
     }
 }
-
-// https://www.tutorialspoint.com/how-to-switch-between-different-activities-in-android
-// https://stackoverflow.com/questions/2091465/how-do-i-pass-data-between-activities-in-android-application
-// https://stackoverflow.com/questions/4038479/android-go-back-to-previous-activity
